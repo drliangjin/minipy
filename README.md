@@ -19,8 +19,8 @@ git clone https://github.com/drliangjin/the-little-python-book.git
 - Go to the offical [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/) and enter the URL
 
 ## Install Anaconda Distribution (including Jupyter Notebook) on your machine
-Please go to [Anaconda download page](https://www.anaconda.com/download/) and select **Python 3.x** version for your operation system.
-After downloading the binary, follow the installer and you should be ready to rock!
+- Please go to [Anaconda download page](https://www.anaconda.com/download/) and select **Python 3.x** version for your operation system.
+- After downloading the binary, follow the installer and you should be ready to rock!
 
 ## Python Resources
 coming soon...
