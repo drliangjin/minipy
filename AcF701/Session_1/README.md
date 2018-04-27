@@ -2,7 +2,7 @@
 by Dr Liang Jin
 
 ## To view the notebooks via the Jupyter Notebook Viewer
-GitHub sometimes does not render Jupyter Notebook properly, so you might likely see loading errors.
+GitHub sometimes does not render Jupyter Notebook properly, so you might likely see loading errors. In this case, enter the following links:
 - [Session 1 Episode 1](https://nbviewer.jupyter.org/github/drliangjin/the-little-python-book/blob/master/AcF701/Session_1/Episode_1/s1_e1.ipynb)
 - [Session 1 Episode 2](https://nbviewer.jupyter.org/github/drliangjin/the-little-python-book/blob/master/AcF701/Session_1/Episode_2/s1_e2.ipynb)
 - [Session 1 Episode Bonus](https://nbviewer.jupyter.org/github/drliangjin/the-little-python-book/blob/master/AcF701/Session_1/Episode_Bonus/s1_bonus.ipynb)
