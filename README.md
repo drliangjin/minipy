@@ -1,5 +1,5 @@
 # AcF701 Python Tutorials
-- Author: Dr Liang Jin
+Author: Dr Liang Jin
 
 
 ## Install Anaconda Distribution (including Jupyter Notebook) on your machine
