@@ -1,12 +1,15 @@
 # Oh-My-Python Tutorials
 by Dr Liang Jin
 
-This repo is designed for python beginners. There are tons of tutorials on Python out there by developers and academics who have far more knowledge than me, but this is a small and humble guide from me, for peope who have no prior experience in Python language. I truly hope it can be helpful in some way and make your Python programming journey easier to start. In paralle, this repo is also for myself as a treasure box where I can keep notes for what I have learned and collect invaluable resources from the Python community around the world.
+This repo is designed for python beginners. There are tons of tutorials on Python out there by genius developers and academics who have far more programming knowledge than me, but this is a small and humble guide from me, for fellows who have no prior experience in Python language and want to make the faith jump. I truly hope this guide can be helpful in some way and make your Python programming journey easier to start. In paralle, this repo is also for myself as a treasure box where I can keep notes for what I have learned and collect invaluable resources from the Python community around the world.
 
 Happy Hacking!
 
 ## Quick Start
-Download the repo zip file by clicking the green button, or if you are happy with command line, you can of course git clone it to your computer.
+Download the repo zip file by clicking the green button, or alternatively, if you are happy with command line, you can of course `git clone` it to your computer by entering:
+```
+git clone https://github.com/drliangjin/AcF701.git
+```
 
 Launch your Jupyter Notebook Desktop app (Windows), or if you are comfortable with terminal, `cd` into the folder with *ipynb* files and type in `jupyter notebook`. Here we go!
 
