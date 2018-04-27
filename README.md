@@ -6,12 +6,17 @@ This repo is designed for python beginners. There are tons of tutorials on Pytho
 Happy Hacking!
 
 ## Quick Start
-Download the repo zip file by clicking the green button, or alternatively, if you are happy with command line, you can of course `git clone` it to your computer by entering:
+
+### To run notebooks locally
+- Download the repo zip file by clicking the green button, or alternatively, if you are happy with command line, you can of course `git clone` it to your computer by entering:
 ```
 git clone https://github.com/drliangjin/the-little-python-book.git
 ```
+- Launch your Jupyter Notebook Desktop app (Windows), or if you are comfortable with terminal, `cd` into the folder with *ipynb* files and type in `jupyter notebook`. Here we go!
 
-Launch your Jupyter Notebook Desktop app (Windows), or if you are comfortable with terminal, `cd` into the folder with *ipynb* files and type in `jupyter notebook`. Here we go!
+### To view notebooks on Jupyter Notebook Viewer
+- Copy the URL for the Jupyter Notebook you want to check
+- Go to the offical [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/) and enter the URL
 
 ## Install Anaconda Distribution (including Jupyter Notebook) on your machine
 Please go to [Anaconda download page](https://www.anaconda.com/download/) and select **Python 3.x** version for your operation system.
