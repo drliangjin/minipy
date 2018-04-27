@@ -1,2 +1,2 @@
-# AcF701 Python Sessions
+# AcF701 Python Tutorials
 ## Author: Dr Liang Jin
