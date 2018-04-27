@@ -7,6 +7,9 @@ GitHub sometimes does not render Jupyter Notebook properly, so you might likely 
 Please can you go to this repo's [homepage](https://github.com/drliangjin/the-little-python-book) and click the `Clone or download` button to download zip file and launch the session's notebooks through Jupyter Notebook app.
 
 ## To view the notebooks via the Jupyter Notebook Viewer
+
+[Session 1 Episode 1](https://nbviewer.jupyter.org/github/drliangjin/the-little-python-book/blob/master/AcF701/Session_1/Episode_1/s1_e1.ipynb)
+
 Copy the following URLs:
 
 - https://github.com/drliangjin/the-little-python-book/blob/master/AcF701/Session_1/Episode_1/s1_e1.ipynb
