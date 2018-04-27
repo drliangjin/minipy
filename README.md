@@ -8,7 +8,7 @@ Happy Hacking!
 ## Quick Start
 Download the repo zip file by clicking the green button, or alternatively, if you are happy with command line, you can of course `git clone` it to your computer by entering:
 ```
-git clone
+git clone https://github.com/drliangjin/the-little-python-book.git
 ```
 
 Launch your Jupyter Notebook Desktop app (Windows), or if you are comfortable with terminal, `cd` into the folder with *ipynb* files and type in `jupyter notebook`. Here we go!
