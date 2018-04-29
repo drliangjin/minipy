@@ -13,19 +13,26 @@ Happy Hacking!
 - Unzip the downloaded file;
 - Launch the tutorial notebooks using Jupyter Notebook Desktop app.
 #### Terminal
-- `git clone` the repo by entering:
-```bash
+- Clone the repo by entering:
+```shell
 git clone https://github.com/drliangjin/the-little-python-book.git
 ```
-- `cd ~/the-little-python-book` and `jupyter notebook`. Here we go!
-
+- Launch Jupyter Notebook from terminal:
+```shell
+cd ~/the-little-python-book
+jupyter notebook
+```
 ### To view the notebooks on Jupyter Notebook Viewer
 - Copy the URL for the Jupyter Notebook you want to check
 - Go to the offical [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/) and enter the URL
 
-## Install Anaconda Distribution (including Jupyter Notebook) on your machine
+## Setup Python Environment
+### Install Anaconda Distribution (including Jupyter Notebook) on your machine
+#### Binary
 - Please go to [Anaconda download page](https://www.anaconda.com/download/) and select **Python 3.x** version for your operation system.
 - After downloading the binary, follow the installer and you should be ready to rock!
+#### Terminal
+coming soon...
 
 ## Python Resources
 coming soon...
