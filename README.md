@@ -15,7 +15,7 @@ Happy Hacking!
 #### Terminal
 - Clone the repo by entering:
 ```shell
-git clone https://github.com/drliangjin/the-little-python-book.git
+git clone https://github.com/drliangjin/the-little-python-book.git ~/TheLittlePythonBook
 ```
 - Launch Jupyter Notebook from terminal:
 ```shell
