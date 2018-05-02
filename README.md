@@ -12,7 +12,7 @@ Happy Hacking!
 - Download the repo zip file by clicking the green button `Clone or download`;
 - Unzip the downloaded file;
 - Launch the tutorial notebooks using Jupyter Notebook Desktop app.
-#### Terminal
+#### macOS Command Line:
 - Clone the repo by entering:
 ```shell
 git clone https://github.com/drliangjin/the-little-python-book.git ~/TheLittlePythonBook
@@ -31,8 +31,18 @@ jupyter notebook
 #### Binary
 - Please go to [Anaconda download page](https://www.anaconda.com/download/) and select **Python 3.x** version for your operation system.
 - After downloading the binary, follow the installer and you should be ready to rock!
-#### Terminal
-coming soon...
+#### macOS Command Line:
+- Download MiniConda installer
+```bash
+wget http://repo.continuum.io/miniconda/Miniconda3-latest-MacOSX-x86_64.sh
+```
+- Run MiniConda installer
+```bash
+bash Miniconda3-latest-MacOSX-x86_64.sh
+```
+- Set MiniConda enviroment
+```bash
+```
 
 ## Python Resources
 coming soon...
