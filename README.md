@@ -19,7 +19,7 @@ git clone https://github.com/drliangjin/the-little-python-book.git ~/TheLittlePy
 ```
 - Launch Jupyter Notebook from terminal:
 ```shell
-cd ~/the-little-python-book
+cd ~/TheLittlePythonBook
 jupyter notebook
 ```
 ### To view the notebooks on Jupyter Notebook Viewer
