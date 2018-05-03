@@ -28,10 +28,10 @@ jupyter notebook
 
 ## Setup Python Environment
 ### Install Anaconda Distribution (including Jupyter Notebook) on your machine
-#### Binary
+#### 1. Binary (recommended for beginners)
 - Please go to [Anaconda download page](https://www.anaconda.com/download/) and select **Python 3.x** version for your operation system.
 - After downloading the binary, follow the installer and you should be ready to rock!
-#### macOS Command Line:
+#### 2. Silent mode (recommended for experienced users):
 - Download Miniconda3 installer using `wget` (if `wget` is not available, recommend to install `wget` via Homebrew)
 ```bash
 wget http://repo.continuum.io/miniconda/Miniconda3-latest-MacOSX-x86_64.sh
@@ -44,7 +44,7 @@ bash Miniconda3-latest-MacOSX-x86_64.sh
 ```bash
 conda install jupyter numpy pandas statsmodels scipy scikit-learn matplotlib seaborn
 ```
-#### Homebrew
+#### 3. Homebrew (my preference):
 - Homebrew Miniconda3
 ```bash
 brew cask install miniconda
