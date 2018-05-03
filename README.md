@@ -32,7 +32,7 @@ jupyter notebook
 - Please go to [Anaconda download page](https://www.anaconda.com/download/) and select **Python 3.x** version for your operation system.
 - After downloading the binary, follow the installer and you should be ready to rock!
 #### macOS Command Line:
-- Download MiniConda installer
+- Download MiniConda installer using `wget` (if `wget` is not available, recommend to install `wget` via Homebrew)
 ```bash
 wget http://repo.continuum.io/miniconda/Miniconda3-latest-MacOSX-x86_64.sh
 ```
@@ -44,6 +44,15 @@ bash Miniconda3-latest-MacOSX-x86_64.sh
 ```bash
 conda install jupyter numpy pandas statsmodels scipy scikit-learn matplotlib seaborn
 ```
-
+#### Homebrew
+- Homebrew MiniConda
+```bash
+brew cask install miniconda
+echo export "PATH=/usr/local/miniconda3/bin:$PATH" >> /.bash_profile
+```
+- Install Jupyter and other essential packages
+```bash
+conda install jupyter numpy pandas statsmodels scipy scikit-learn matplotlib seaborn
+```
 ## Python Resources
 coming soon...
