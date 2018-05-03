@@ -40,8 +40,9 @@ wget http://repo.continuum.io/miniconda/Miniconda3-latest-MacOSX-x86_64.sh
 ```bash
 bash Miniconda3-latest-MacOSX-x86_64.sh
 ```
-- Set MiniConda enviroment
+- Install Jupyter and other essential packages
 ```bash
+conda install jupyter numpy pandas statsmodels scipy scikit-learn matplotlib seaborn
 ```
 
 ## Python Resources
