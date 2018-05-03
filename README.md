@@ -48,7 +48,7 @@ conda install jupyter numpy pandas statsmodels scipy scikit-learn matplotlib sea
 - Homebrew MiniConda
 ```bash
 brew cask install miniconda
-echo export "PATH=/usr/local/miniconda3/bin:$PATH" >> /.bash_profile
+echo export "PATH=/usr/local/miniconda3/bin:$PATH" >> $HOME/.bash_profile
 ```
 - Install Jupyter and other essential packages
 ```bash
