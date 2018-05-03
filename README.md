@@ -15,7 +15,7 @@ Happy Hacking!
 #### macOS Command Line:
 - Clone the repo by entering:
 ```shell
-git clone https://github.com/drliangjin/the-little-python-book.git ~/MiniPythonBook
+git clone https://github.com/drliangjin/mini-python-book.git ~/MiniPythonBook
 ```
 - Launch Jupyter Notebook from terminal:
 ```shell
