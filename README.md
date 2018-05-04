@@ -6,7 +6,7 @@ by Dr Liang Jin
 git clone https://github.com/drliangjin/mini-python-book.git ~/MiniPythonBook
 ```
 
-<p align="center"><img src="/doc/image/samurai-champloo.jpg" alt="Samurai"/></p>
+<p align="center"><img src="/doc/image/jupyter.png" alt="jupyter"/></p>
 <p align="center">
   <b><a href="#introduction">Introduction</a></b>
   |
