@@ -17,6 +17,7 @@ by Dr Liang Jin
   |
   <b><a href="#features">FAQ</a></b>  
 </p>
+
 ### Quick Start
 ```shell
 git clone https://github.com/drliangjin/mini-python-book.git ~/MiniPythonBook
