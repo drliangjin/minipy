@@ -75,6 +75,10 @@ bash Miniconda3-latest-MacOSX-x86_64.sh
 conda install jupyter numpy pandas statsmodels scipy scikit-learn matplotlib seaborn
 ```
 ### 3. Homebrew (my preference):
+- Install [Homebrew](https://brew.sh/):
+```bash
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
 - Homebrew Miniconda3
 ```bash
 brew cask install miniconda
