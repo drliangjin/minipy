@@ -1,7 +1,7 @@
 # Mini Python Book
 by Dr Liang Jin
 
-<p align="center"><img src="/doc/image/jupyter.png" alt="jupyter"/></p>
+<p align="center"><img src="/doc/image/jupyter_and_python.png" alt="jupyter_and_python"/></p>
 <p align="center">
   <b><a href="#introduction">Introduction</a></b>
   |
