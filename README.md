@@ -13,8 +13,6 @@ by Dr Liang Jin
   |
   <b><a href="#resources">Resources</a></b>
   |
-  <b><a href="https://sites.google.com/site/drliangjin/">About Me</a></b>  
-  |
   <b><a href="#features">FAQ</a></b>  
 </p>
 
