@@ -1,7 +1,7 @@
 # Mini Python Book
 by Dr Liang Jin
 
-## Quick Start
+### Quick Start
 ```shell
 git clone https://github.com/drliangjin/mini-python-book.git ~/MiniPythonBook
 ```
