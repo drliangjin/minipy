@@ -1,11 +1,6 @@
 # Mini Python Book
 by Dr Liang Jin
 
-### Quick Start
-```shell
-git clone https://github.com/drliangjin/mini-python-book.git ~/MiniPythonBook
-```
-
 <p align="center"><img src="/doc/image/jupyter.png" alt="jupyter"/></p>
 <p align="center">
   <b><a href="#introduction">Introduction</a></b>
@@ -22,6 +17,10 @@ git clone https://github.com/drliangjin/mini-python-book.git ~/MiniPythonBook
   |
   <b><a href="#features">FAQ</a></b>  
 </p>
+### Quick Start
+```shell
+git clone https://github.com/drliangjin/mini-python-book.git ~/MiniPythonBook
+```
 
 # Introduction
 This repo is designed for python beginners. There are tons of tutorials on Python out there by genius developers and academics who have far more programming knowledge than me, but this is a small and humble guide from me, for fellows who have no prior experience in Python language and want to make the faith jump. I truly hope this guide can be helpful in some way and make your Python programming journey easier to start. In paralle, this repo is also for myself as a treasure box where I can keep notes for what I have learned and collect invaluable resources from the Python community around the world.
