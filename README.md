@@ -55,12 +55,11 @@ jupyter notebook
 - Go to the offical [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/) and enter the URL
 
 # Installation
-## Install Anaconda Distribution (including Jupyter Notebook) on your machine
-### 1. Binary (recommended for beginners)
+## 1. Binary (recommended for beginners)
 - Please go to [Anaconda download page](https://www.anaconda.com/download/) and select **Python 3.x** version for your operation system.
 - After downloading the binary, follow the installer and you should be ready to rock!
-### 2. Silent mode (recommended for experienced users):
-- Download Miniconda3 installer using `wget` (if `wget` is not available, recommend to install `wget` via Homebrew)
+## 2. Silent mode (recommended for experienced users):
+- Download Miniconda3 installer using `wget` (if `wget` is not available, recommend to install `wget` via [Homebrew](https://brew.sh/))
 ```bash
 wget http://repo.continuum.io/miniconda/Miniconda3-latest-MacOSX-x86_64.sh
 ```
@@ -72,7 +71,7 @@ bash Miniconda3-latest-MacOSX-x86_64.sh
 ```bash
 conda install jupyter numpy pandas statsmodels scipy scikit-learn matplotlib seaborn
 ```
-### 3. Homebrew (my preference):
+## 3. Homebrew (my preference):
 - Install [Homebrew](https://brew.sh/):
 ```bash
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
