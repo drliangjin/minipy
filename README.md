@@ -15,7 +15,9 @@ by Dr Liang Jin
   |
   <b><a href="#resources">Resources</a></b>
   |
-  <b><a href="#features">FAQ</a></b>  
+  <b><a href="#references">References</a></b>
+  |
+  <b><a href="#FAQ">FAQ</a></b>  
 </p>
 
 ### Quick Start
@@ -91,6 +93,8 @@ conda install jupyter numpy pandas statsmodels scipy scikit-learn matplotlib sea
 Sooner or later, you might need different versions of Python (e.g., Python2 or Python3). To avoid breaking things, you will probably need to manage multiple Python projects, virtual environments, and environment variables.
 
 # Resources
+coming soon...
+# References
 coming soon...
 # FAQ
 coming soon...
