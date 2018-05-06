@@ -35,6 +35,10 @@ git clone https://github.com/drliangjin/mini-python-book.git ~/MiniPythonBook
 
 - [Introduction](#introduction)
 - [Features](#features)
+- [Usage](#usage)
+    - [Run Jupyter Notebooks](#how to run the notebooks)
+    - [View Jupyter Notebooks](#how to view the notebooks)
+- [Installation](#installation)
 
 <!-- markdown-toc end -->
 
@@ -44,6 +48,7 @@ This repo is designed for python beginners. There are tons of tutorials on Pytho
 Happy Hacking!
 
 # Features
+
 This repo covers following basics:
 - Jupyter Notebook
 - Python Basic Syntax
@@ -52,12 +57,16 @@ This repo covers following basics:
 - Coming soon...
 
 # Documentation
-### To run the notebooks
-#### GUI
+
+## How to run the notebooks
+
+### GUI
+
 - Download the repo zip file by clicking the green button `Clone or download`;
 - Unzip the downloaded file;
 - Launch the tutorial notebooks using Jupyter Notebook Desktop app.
-#### macOS Command Line:
+### macOS Command Line:
+
 - Clone the repo by entering:
 ```shell
 git clone https://github.com/drliangjin/mini-python-book.git ~/MiniPythonBook
@@ -67,15 +76,20 @@ git clone https://github.com/drliangjin/mini-python-book.git ~/MiniPythonBook
 cd ~/MiniPythonBook
 jupyter notebook
 ```
-### To view the notebooks on Jupyter Notebook Viewer
+## How to view the notebooks
+
 - Copy the URL for the Jupyter Notebook you want to check
 - Go to the offical [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/) and enter the URL
 
 # Installation
-### Binary (recommended for beginners)
+
+## Binary (recommended for beginners)
+
 - Please go to [Anaconda download page](https://www.anaconda.com/download/) and select **Python 3.x** version for your operation system.
 - After downloading the binary, follow the installer and you should be ready to rock!
-### Silent mode (recommended for experienced users):
+
+## Silent mode (recommended for experienced users):
+
 - Download Miniconda3 installer using `wget` (if `wget` is not available, recommend to install `wget` via [Homebrew](https://brew.sh/))
 ```bash
 wget http://repo.continuum.io/miniconda/Miniconda3-latest-MacOSX-x86_64.sh
@@ -88,7 +102,9 @@ bash Miniconda3-latest-MacOSX-x86_64.sh
 ```bash
 conda install jupyter numpy pandas statsmodels scipy scikit-learn matplotlib seaborn
 ```
-### Homebrew (my preference):
+
+## Homebrew (my preference):
+
 - Install [Homebrew](https://brew.sh/):
 ```bash
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -103,11 +119,17 @@ echo export "PATH=/usr/local/miniconda3/bin:$PATH" >> $HOME/.bash_profile
 conda install jupyter numpy pandas statsmodels scipy scikit-learn matplotlib seaborn
 ```
 # Environment
+
 Sooner or later, you might need different versions of Python (e.g., Python2 or Python3). To avoid breaking things, you will probably need to manage multiple Python projects, virtual environments, and environment variables.
 
 # Resources
+
 coming soon...
+
 # References
+
 coming soon...
+
 # FAQ
+
 coming soon...
