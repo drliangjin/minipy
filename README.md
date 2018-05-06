@@ -36,8 +36,8 @@ git clone https://github.com/drliangjin/mini-python-book.git ~/MiniPythonBook
 - [Introduction](#introduction)
 - [Features](#features)
 - [Usage](#usage)
-    - [Run Jupyter Notebooks](#how to run the notebooks)
-    - [View Jupyter Notebooks](#how to view the notebooks)
+    - [Run Jupyter Notebooks](##how to run the notebooks)
+    - [View Jupyter Notebooks](##how to view the notebooks)
 - [Installation](#installation)
 
 <!-- markdown-toc end -->
