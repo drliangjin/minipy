@@ -48,6 +48,9 @@ Happy Hacking!
 # Features
 
 This repo covers following basics:
+- Command Line Basics, coming soon
+- Version Control System (git), coming soon
+- Virtual Environment, coming soon
 - Jupyter Notebook
 - Python Basic Syntax
 - Numpy
