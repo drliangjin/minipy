@@ -11,6 +11,8 @@ by Dr Liang Jin
   |
   <b><a href="#installation">Installation</a></b>
   |
+  <b><a href="#environment">Environment</a></b>
+  |
   <b><a href="#resources">Resources</a></b>
   |
   <b><a href="#features">FAQ</a></b>  
@@ -85,6 +87,8 @@ echo export "PATH=/usr/local/miniconda3/bin:$PATH" >> $HOME/.bash_profile
 ```bash
 conda install jupyter numpy pandas statsmodels scipy scikit-learn matplotlib seaborn
 ```
+# Environment
+
 # Resources
 coming soon...
 # FAQ
