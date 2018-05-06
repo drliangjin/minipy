@@ -25,11 +25,14 @@ by Dr Liang Jin
 - - -
 
 **Quick Start:**
-```shell
+
+```bash
 git clone https://github.com/drliangjin/mini-python-book.git ~/MiniPythonBook
 ```
 **Table of Contents**
+
 -[Introduction](#introduction)
+-[Features](#features)
 
 
 
