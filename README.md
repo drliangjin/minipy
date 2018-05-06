@@ -9,7 +9,7 @@ by Dr Liang Jin
   |
   <b><a href="#features">Features</a></b>
   |
-  <b><a href="#usage">Usage</a></b>
+  <b><a href="#documentation">Documentation</a></b>
   |
   <b><a href="#installation">Installation</a></b>
   |
@@ -29,12 +29,14 @@ by Dr Liang Jin
 ```bash
 git clone https://github.com/drliangjin/mini-python-book.git ~/MiniPythonBook
 ```
+
+<!-- markdown-toc start -->
 **Table of Contents**
 
 - [Introduction](#introduction)
 - [Features](#features)
 
-
+<!-- markdown-toc end -->
 
 # Introduction
 This repo is designed for python beginners. There are tons of tutorials on Python out there by genius developers and academics who have far more programming knowledge than me, but this is a small and humble guide from me, for fellows who have no prior experience in Python language and want to make the faith jump. I truly hope this guide can be helpful in some way and make your Python programming journey easier to start. In paralle, this repo is also for myself as a treasure box where I can keep notes for what I have learned and collect invaluable resources from the Python community around the world.
@@ -49,7 +51,7 @@ This repo covers following basics:
 - Pandas
 - Coming soon...
 
-# Usage
+# Documentation
 ### To run the notebooks
 #### GUI
 - Download the repo zip file by clicking the green button `Clone or download`;
