@@ -3,7 +3,7 @@ by Dr Liang Jin
 
 - - -
 
-<p align="center"><img src="/assets/image/jupyter_and_python.png" alt="jupyter_and_python"/></p>
+<p align="center"><img src="/assets/img/jupyter_and_python.png" alt="jupyter_and_python"/></p>
 <p align="center">
   <b><a href="#introduction">Introduction</a></b>
   |
