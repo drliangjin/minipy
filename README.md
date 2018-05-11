@@ -55,7 +55,8 @@ This repo covers following basics:
 - Python Basic Syntax
 - Numpy
 - Pandas
-- Coming soon...
+- Quantopian Basics
+- Coming soon
 
 # Documentation
 
