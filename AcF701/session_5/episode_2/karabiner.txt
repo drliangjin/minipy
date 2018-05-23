@@ -1,0 +1,6 @@
+ Command , Option/Alt ,-,Apple Keyboard
+ Option/Alt , Command ,-,Apple Keyboard
+ Caps Lock , Ctrl , ESC ,-
+ Enter , Ctrl , Enter ,-
+ Shift , Shift , (   ) ,-
+ Ctrl , Hyper , Caps Lock ,-
