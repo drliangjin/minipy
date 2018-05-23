@@ -43,7 +43,7 @@ git clone https://github.com/drliangjin/mini-python-book.git ~/MiniPythonBook
 - [VirtualBox](https://www.virtualbox.org/) is the most popular virtual machine app.
   - [YouTube](https://www.youtube.com/watch?v=sB_5fqiysi4) tutorial video
 - [Ubuntu](https://www.ubuntu.com/) is the most popular [debian](https://www.debian.org/)-based Linux distro.
-- Guide for installation coming soon...
+- Install Ubuntu on Windows 8/10 (Ubuntu is free, you don't have to donate a penny when downloading Ubuntu)
   - [YouTube](https://www.youtube.com/watch?v=GKBXLAhNVeQ) tutorial video
 - NOTE: if you are not happy with the idea of switching from windows to linux, that's total fine.
 
