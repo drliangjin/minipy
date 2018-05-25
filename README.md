@@ -109,7 +109,7 @@ bash Miniconda3-latest-MacOSX-x86_64.sh
 ```
 - Install Jupyter and other essential packages
 ```bash
-conda install jupyter numpy pandas statsmodels scipy scikit-learn matplotlib seaborn
+conda install jupyter numpy pandas statsmodels scipy scikit-learn matplotlib seaborn beautifulsoup4 requests
 ```
 
 ## Homebrew (my preference):
@@ -125,7 +125,7 @@ echo export "PATH=/usr/local/miniconda3/bin:$PATH" >> $HOME/.bash_profile
 ```
 - Install Jupyter and other essential packages
 ```bash
-conda install jupyter numpy pandas statsmodels scipy scikit-learn matplotlib seaborn
+conda install jupyter numpy pandas statsmodels scipy scikit-learn matplotlib seaborn beautifulsoup4 requests
 ```
 # Environment
 
