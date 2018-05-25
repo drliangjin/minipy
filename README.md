@@ -127,6 +127,10 @@ echo export "PATH=/usr/local/miniconda3/bin:$PATH" >> $HOME/.bash_profile
 ```bash
 conda install jupyter numpy pandas statsmodels scipy scikit-learn matplotlib seaborn beautifulsoup4 requests
 ```
+- Install Other packages
+```bash
+conda install -c damianavila82 rise
+```
 # Environment
 
 Sooner or later, you might need different versions of Python (e.g., Python2 or Python3). To avoid breaking things, you will probably need to manage multiple Python projects, virtual environments, and environment variables.
