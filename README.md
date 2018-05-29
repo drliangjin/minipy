@@ -26,6 +26,9 @@ by Dr Liang Jin
 **Quick Start:**
 
 ```bash
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/drliangjin/mini-python-book/master/tools/install)"
+```
+```bash
 git clone https://github.com/drliangjin/mini-python-book.git ~/MiniPythonBook
 ```
 
