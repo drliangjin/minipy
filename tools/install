@@ -51,6 +51,3 @@ elif [[ "$(cat /etc/issue 2> /dev/null)" =~ Ubuntu ]]; then
 else
   echo "Only macOS and Ubuntu are supported now"
 fi
-
-# Install packages using conda
-conda install jupyter numpy pandas statsmodels scipy scikit-learn matplotlib seaborn beautifulsoup4 requests
