@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+
+# macOS
+if [[ "$(uname -s)" = "Darwin" ]]; then
+  # Homebrew
+  if ! $(which brew) > /dev/null 2>&1; then
+    /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  fi
+  
+  echo "test passed on macOS"
+  
+elif [[ "$(cat /etc/issue 2> /dev/null)" =~ Ubuntu ]]; then
+
+  # wget
+  if ! $(which wget) > /dev/null 2>&1; then
+    sudo apt-get install wget
+  fi
+  
+  echo "test passed on Ubuntu"
+
+else
+  echo "Only macOS and Ubuntu are supported now"
+fi
+
+echo "test finished"
