@@ -1,5 +1,5 @@
 # Mini Python Book
-by Dr Liang Jin
+Created with :heart: by Dr Liang Jin
 
 - - -
 
@@ -43,6 +43,7 @@ git clone https://github.com/drliangjin/mini-python-book.git ~/MiniPythonBook
 <!-- markdown-toc end -->
 
 # UPDATE:
+- 3 June 2018: There is a better way to leverage Linux system with Windows 10! You can install Linux sub-system now!
 - [VirtualBox](https://www.virtualbox.org/) is the most popular virtual machine app.
   - [YouTube](https://www.youtube.com/watch?v=sB_5fqiysi4) tutorial video
 - [Ubuntu](https://www.ubuntu.com/) is the most popular [debian](https://www.debian.org/)-based Linux distro.
