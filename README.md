@@ -29,7 +29,7 @@ Created with :heart: by Dr Liang Jin
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/drliangjin/minipy/master/tools/install)"
 ```
 ```bash
-git clone https://github.com/drliangjin/minipy.git ~/miniPy
+git clone https://github.com/drliangjin/minipy.git ~/minipy
 ```
 
 <!-- markdown-toc start -->
