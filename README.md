@@ -123,7 +123,6 @@ conda install jupyter numpy pandas statsmodels scipy scikit-learn matplotlib sea
 - Homebrew Miniconda3
 ```bash
 brew cask install miniconda
-echo export "PATH=/usr/local/miniconda3/bin:$PATH" >> $HOME/.bash_profile
 ```
 - Install Jupyter and other essential packages
 ```bash
@@ -133,9 +132,51 @@ conda install jupyter numpy pandas statsmodels scipy scikit-learn matplotlib sea
 ```bash
 conda install -c damianavila82 rise
 ```
-# Environment
+
+# Conda in Terminal
+
+Set up conda accessible in your terminal and enable `conda` commands for current users:
+```bash
+echo ". /usr/local/miniconda3/etc/profile.d/conda.sh" >> ~/.bash_profile
+```
+or, for all users:
+```bash
+sudo ln -s /usr/local/miniconda3/etc/profile.d/conda.sh /etc/profile.d/conda.sh
+```
+
+Previous to conda 4.4, the recommended way to activate conda was to modify PATH in your `~/.bash_profile` file as following:
+```bash
+echo export "PATH=/usr/local/miniconda3/bin:$PATH" >> $HOME/.bash_profile
+```
+However, now Anaconda suggests removing this line.
+
+# Virtual Environment
 
 Sooner or later, you might need different versions of Python (e.g., Python2 or Python3). To avoid breaking things, you will probably need to manage multiple Python projects, virtual environments, and environment variables.
+
+- Create a new virtual environment named `venv` with Python3.7 using conda:
+```bash
+conda create --name venv python=3.7
+```
+
+- Activate a virtual environment `venv`:
+```bash
+conda activate venv
+```
+
+- Deactivate an active virtual environment:
+```bash
+conda deactivate
+```
+
+- List out the available environments:
+```bash
+conda env list
+```
+- Remove an existing environment named `venv`:
+```bash
+conda env remove -n venv
+```
 
 # Resources
 
