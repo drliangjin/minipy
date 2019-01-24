@@ -80,11 +80,11 @@ This repo covers following basics:
 
 - Clone the repo by entering:
 ```shell
-git clone https://github.com/drliangjin/mini-python-book.git ~/MiniPythonBook
+git clone https://github.com/drliangjin/minipy.git ~/miniPy
 ```
 - Launch Jupyter Notebook from terminal:
 ```shell
-cd ~/MiniPythonBook
+cd ~/miniPy
 jupyter notebook
 ```
 ## How to view the notebooks
