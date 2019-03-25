@@ -11,21 +11,21 @@ This doc outlines the steps to (properly) create a Python development environmen
 
 3. Open Anaconda Prompt
 
-4. Create a new virtual environment by typing: conda create -n minipy python=3.7
+4. Create a new virtual environment by typing: `conda create -n minipy python=3.7`
 
-5. Return or Type Y to continue the process
+5. Press `Return` or Type `Y` and `Return` to continue the process
 
-6. Once created, you can now activate the environment: conda activate minipy
+6. Once created, you can now activate the environment: `conda activate minipy`
 
-7. You should see the prompt now turns to be something like this (minipy) C:>... Congratulations! You installed Python 3.7 inside our conda virtual environment
+7. You should see the prompt now turns to be something like this `(minipy) C:>...` Congratulations! You installed Python 3.7 inside our conda virtual environment
 
-8. Now you need to install required packages such as Jupyter by entering: conda install Jupyter
+8. Now you need to install required packages such as Jupyter by entering: `conda install Jupyter`
 
 9. Install other packages such as NumPy, Pandas, BeautifulSoup using step 8
 
-10. Fire up Jupyter Notebook by typing: jupyter notebook
+10. Fire up Jupyter Notebook by typing: `jupyter notebook`
 
-11. Note: remember to activate this virtual environment before lauching Jupyter Notebook, or you will get a "command does not exist" error.
+11. Note: remember to activate this virtual environment before lauching Jupyter Notebook (step 6), or you will get a "command does not exist" error.
 
 ## macOS Users:
 
@@ -33,30 +33,30 @@ This doc outlines the steps to (properly) create a Python development environmen
 
 2. Type in the following command: 
 
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"```
 
-3. Press Enter and passwords to continue
+3. Press `Enter` and passwords to continue
 
-4. Once it finishes the installation, then type: brew cask install miniconda
+4. Once it finishes the installation, then type: `brew cask install miniconda`
 
 
 5. After installation, type in the following command:
-echo ". /usr/local/miniconda3/etc/profile.d/conda.sh" >> ~/.bash_profile
+```echo ". /usr/local/miniconda3/etc/profile.d/conda.sh" >> ~/.bash_profile```
 
 6. Now you can use conda
 
-7. Create a new virtual environment by typing: conda create -n minipy python=3.7
+7. Create a new virtual environment by typing: `conda create -n minipy python=3.7`
 
-8. Return or Type Y to continue the process
+8. Press `Return` or Type `Y` and `Return` to continue the process
 
-9. Once created, you can now activate the environment: conda activate minipy
+9. Once created, you can now activate the environment: `conda activate minipy`
 
-10. You should see the prompt now turns to be something like this (minipy) ..:.username$ Congratulations! You installed Python 3.7 inside our conda virtual environment
+10. You should see the prompt now turns to be something like this `(minipy) ..:.username$` Congratulations! You installed Python 3.7 inside our conda virtual environment
 
-11. Now you need to install required packages such as Jupyter by entering: conda install Jupyter
+11. Now you need to install required packages such as Jupyter by entering: `conda install Jupyter`
 
 12. Install other packages such as NumPy, Pandas, BeautifulSoup using step 8
 
-13. Fire up Jupyter Notebook by typing: jupyter notebook
+13. Fire up Jupyter Notebook by typing: `jupyter notebook`
 
-14. Note: remember to activate this virtual environment before lauching Jupyter Notebook, or you will get a "command does not exist" error.
+14. Note: remember to activate this virtual environment before lauching Jupyter Notebook (Step 9), or you will get a "command does not exist" error.
