@@ -84,9 +84,11 @@ jupyter notebook
 
 # Installation
 
+You should be able to install Anaconda/Jupyter Notebook in AppsAnywhere on campus. I highly recommend installing these essential tools in your own PC/laptop.
+
 ## Binary (recommended for beginners)
 
-- Please go to [Anaconda download page](https://www.anaconda.com/download/) and select **Python 3.x** version for your operation system.
+- Please go to [Anaconda download page](https://www.anaconda.com/download/) and select **Python 3.x** version for your operation system (macOs, Windows or Linux).
 - After downloading the binary, follow the installer and you should be ready to rock!
 
 ## Silent mode (recommended for experienced users):
@@ -168,6 +170,7 @@ conda env list
 conda env remove -n venv
 ```
 # UPDATE:
+- 3 October 2019: It's straightforward to install sub-system by simply searching and install [Ubuntu](https://www.ubuntu.com/) in Microsoft Store.
 - 3 June 2018: There is a better way to leverage Linux system with Windows 10! You can install Linux sub-system now!
 - [VirtualBox](https://www.virtualbox.org/) is the most popular virtual machine app.
   - [YouTube](https://www.youtube.com/watch?v=sB_5fqiysi4) tutorial video
