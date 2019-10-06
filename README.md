@@ -53,7 +53,7 @@ This repo covers following basics:
 - Python Basic Syntax
 - Numpy
 - Pandas
-- Quantopian Basics
+- SQL and WRDS
 - Regular Expression
 - Web Scraping
 
