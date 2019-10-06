@@ -25,9 +25,8 @@ Created with :heart: by Dr Liang Jin
 - - -
 **Quick Start:**
 
-```bash
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/drliangjin/minipy/master/tools/install)"
-```
+Please download the whole project or clone it with following:
+
 ```bash
 git clone https://github.com/drliangjin/minipy.git ~/minipy
 ```
@@ -41,15 +40,6 @@ git clone https://github.com/drliangjin/minipy.git ~/minipy
 - [Installation](#installation)
 
 <!-- markdown-toc end -->
-
-# UPDATE:
-- 3 June 2018: There is a better way to leverage Linux system with Windows 10! You can install Linux sub-system now!
-- [VirtualBox](https://www.virtualbox.org/) is the most popular virtual machine app.
-  - [YouTube](https://www.youtube.com/watch?v=sB_5fqiysi4) tutorial video
-- [Ubuntu](https://www.ubuntu.com/) is the most popular [debian](https://www.debian.org/)-based Linux distro.
-- Install Ubuntu on Windows 8/10 (Ubuntu is free, you don't have to donate a penny when downloading Ubuntu)
-  - [YouTube](https://www.youtube.com/watch?v=GKBXLAhNVeQ) tutorial video
-- NOTE: if you are not happy with the idea of switching from windows to linux, that's total fine.
 
 # Introduction
 This repo is designed for python beginners. There are tons of tutorials on Python out there by genius developers and academics who have far more programming knowledge than me, but this is a small and humble guide from me, for fellows who have no prior experience in Python language and want to make the faith jump. I truly hope this guide can be helpful in some way and make your Python programming journey easier to start. In paralle, this repo is also for myself as a treasure box where I can keep notes for what I have learned and collect invaluable resources from the Python community around the world.
@@ -177,6 +167,14 @@ conda env list
 ```bash
 conda env remove -n venv
 ```
+# UPDATE:
+- 3 June 2018: There is a better way to leverage Linux system with Windows 10! You can install Linux sub-system now!
+- [VirtualBox](https://www.virtualbox.org/) is the most popular virtual machine app.
+  - [YouTube](https://www.youtube.com/watch?v=sB_5fqiysi4) tutorial video
+- [Ubuntu](https://www.ubuntu.com/) is the most popular [debian](https://www.debian.org/)-based Linux distro.
+- Install Ubuntu on Windows 8/10 (Ubuntu is free, you don't have to donate a penny when downloading Ubuntu)
+  - [YouTube](https://www.youtube.com/watch?v=GKBXLAhNVeQ) tutorial video
+- NOTE: if you are not happy with the idea of switching from windows to linux, that's total fine.
 
 # Resources
 
