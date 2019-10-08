@@ -70,11 +70,11 @@ This repo covers following basics:
 
 - Clone the repo by entering:
 ```shell
-git clone https://github.com/drliangjin/minipy.git ~/miniPy
+git clone https://github.com/drliangjin/minipy.git ~/minipy
 ```
 - Launch Jupyter Notebook from terminal:
 ```shell
-cd ~/miniPy
+cd ~/minipy
 jupyter notebook
 ```
 ## How to view the notebooks
