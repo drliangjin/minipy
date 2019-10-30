@@ -55,7 +55,7 @@ This doc outlines the steps to (properly) create a Python development environmen
 
 11. Now you need to install required packages such as Jupyter by entering: `conda install Jupyter`
 
-12. Install other packages such as NumPy, Pandas, BeautifulSoup using step 8
+12. Install other packages such as NumPy, Pandas, BeautifulSoup using step 11
 
 13. Fire up Jupyter Notebook by typing: `jupyter notebook`
 
