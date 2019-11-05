@@ -5,19 +5,19 @@ This doc outlines the steps to (properly) create a Python development environmen
 
 ## Windows Users:
 
-1. Download Anaconda (Python 3.7 version) from (https://www.anaconda.com/distribution/)
+1. Download Anaconda (Python 3.7 version or higher) from (https://www.anaconda.com/distribution/)
 
 2. Install Anaconda via the graphic installer, using recommended settings.
 
 3. Open Anaconda Prompt
 
-4. Create a new virtual environment by typing: `conda create -n minipy python=3.7`
+4. Create a new virtual environment by typing: `conda create -n minipy python`
 
 5. Press `Return` or Type `Y` and `Return` to continue the process
 
 6. Once created, you can now activate the environment: `conda activate minipy`
 
-7. You should see the prompt now turns to be something like this `(minipy) C:>...` Congratulations! You installed Python 3.7 inside our conda virtual environment
+7. You should see the prompt now turns to be something like this `(minipy) C:>...` Congratulations! You installed Python inside our conda virtual environment
 
 8. Now you need to install required packages such as Jupyter by entering: `conda install Jupyter`
 
@@ -29,9 +29,9 @@ This doc outlines the steps to (properly) create a Python development environmen
 
 ## macOS Users:
 
-1. Open terminal from Launchpad and then other
+1. Open Launchpad and then Other, fire up Terminal (don't panic if it is the first you use terminal)
 
-2. Type in the following command: 
+2. Type in the following command to install a package manager for macOS: 
 
 ```/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"```
 
